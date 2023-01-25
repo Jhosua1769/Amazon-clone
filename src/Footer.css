@@ -1,0 +1,65 @@
+  /* ---------- Copyright -------- */
+
+  .copyright{
+
+    width: 100%;
+    left: 0px;
+    right: 0px;
+    margin: 0 auto;
+    background: #000;
+    color: #8a8a8a;
+    font-size: 14px;
+    padding: 40px 0 20px;
+    display: flex;
+    flex-direction: column;
+    }
+    
+    .copyright p{
+    
+    color: #8a8a8a;
+    
+    }
+    .copyright h3{
+    color:#fff;
+    margin-bottom: 20px;
+    }
+    
+    ul{
+    list-style-type: none;
+    }
+    
+    .copyright hr{
+    border: none;
+    background: #b5b5b5;
+    height: 1px;
+    }
+    
+    .copyright{
+    
+    text-align: center;
+    
+    }
+    
+    .container-copyright p{
+    
+    font-size: 20px;
+    color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    }
+    
+    .copyright-small:last-child{
+    
+    color: gray; 
+    font-size: 12px;
+    
+    }
+    
+    .line-title{
+    
+    background: #fff!important;
+    border: 2px solid #fff!important;
+    width: 100% !important;
+    z-index: 999;
+    }
+    

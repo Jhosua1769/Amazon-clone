@@ -1,0 +1,65 @@
+.checkout__flex{
+
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    height: max-content;    
+    
+}
+
+.empty-basket-box{
+    width: 100%;
+}
+
+.empty-basket{
+
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 50px;
+    padding: 10px;
+    
+}
+
+.empty-basket-space{
+
+    height: 100vh;
+    
+}
+
+.checkout__title{
+    padding: 10px;
+    border-bottom: 2px solid lightgray;
+    color: #000 !important;
+}
+.checkout__left{
+    width: 68.5%;
+    padding: 1.5%;
+    padding-right: 0.75%;
+    
+}
+
+.checkout__div{
+
+    background-color: white;
+    min-height: 100%;
+}
+
+.checkout__right{
+    width: 38.5%;
+    padding: 1.5%;
+    padding-left: 0.75%;
+    background-color: #2B394B;
+}
+
+.shop__box{
+    width:90%;
+    background-color: #fff;
+    border: 1px solid #dddddd;
+    padding: 5%;
+    margin-top: 1.5em;
+}
+
+.shop{
+
+    width: 100%;
+}

@@ -1,0 +1,29 @@
+/* 8:04:09 */
+
+.orders {
+    padding: 20px 80px;
+}
+
+.orders h1{
+    margin: 30px 0;
+    color: #fff;
+}
+
+.empty-basket-box{
+    width: 100%;
+}
+
+.empty-basket{
+
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 50px;
+    padding: 10px;
+    
+}
+
+.empty-basket-space{
+
+    height: 100vh;
+    
+}
