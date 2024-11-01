@@ -129,14 +129,16 @@ function Payment() {
 
             <div className='payment__section'>
                 <div className='payment__title'>
+                 
                     <h3>Payment Method</h3>
-                    <p>test it with the following fake card </p>
-                    <p>-424242424242424242424242424-</p>
+                    <p>metodo de pago fuera de servicio </p>
+                
                 </div>
+                
                 <div className='payment__details'>
                     {/* stripe magic will go */}
                     <form onSubmit={handleSubmit}>
-                        <CardElement onChange={handleChange}/>
+                        {/* <CardElement onChange={handleChange}/> */}
 
                         <div className='payment__priceContainer'>
                             <CurrencyFormat
