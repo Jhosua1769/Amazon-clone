@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Amazon-clone/static/css/main.856364ce.css",
+    "main.js": "/Amazon-clone/static/js/main.b9c06cf1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Amazon-clone/static/js/787.28cb0dcd.chunk.js",
+    "static/media/shop.jpg": "/Amazon-clone/static/media/shop.1e3aca4c30c5bfef7cb2.jpg",
+    "static/media/product01.png": "/Amazon-clone/static/media/product01.4097d193ebafa2528ebe.png",
+    "index.html": "/Amazon-clone/index.html",
+    "main.856364ce.css.map": "/Amazon-clone/static/css/main.856364ce.css.map",
+    "main.b9c06cf1.js.map": "/Amazon-clone/static/js/main.b9c06cf1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Amazon-clone/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.856364ce.css",
+    "static/js/main.b9c06cf1.js"
+  ]
+}
